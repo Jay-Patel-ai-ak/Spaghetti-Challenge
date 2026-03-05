@@ -1,2 +1,4 @@
 version: 1.0
 production cnfig tweak
+dev-config: enabled
+(Start development cycle)
